@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">noteAlex</string>
+    <string name="note_title">Título de la Nota</string>
+</resources>

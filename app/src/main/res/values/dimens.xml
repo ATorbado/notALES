@@ -1,0 +1,4 @@
+<resources>
+    <!-- Otras dimensiones si las tienes -->
+    <dimen name="note_item_height">48dp</dimen> <!-- Ajusta el valor como necesites -->
+</resources>
